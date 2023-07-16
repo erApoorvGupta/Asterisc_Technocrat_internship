@@ -1,5 +1,6 @@
 
 # 🌟 Data Science Internship Repository 🌟
+![Asterisc Technocrat](https://images.jdmagicbox.com/comp/nagpur/f1/0712px712.x712.230226204157.b7f1/catalogue/asterisc-technocrat-pvt-ltd-nagpur-software-companies-gr0b50rtuk.jpg)
 
 Welcome to my vibrant GitHub repository for my exciting Data Science internship at Asterisc Technocrat! 🚀 I am truly grateful for the amazing opportunity to work with Nagpur's most trusted and highly-rated custom software development company, which holds ISO 9001:2015 certification. At Asterisc Technocrat, we specialize in delivering exceptional business IT solutions worldwide, combining industry expertise, cutting-edge technology, and deep business domain knowledge for seamless digital transformations. Our commitment to creating superior customer experiences sets us apart. 💼💡
 
@@ -10,4 +11,4 @@ This vibrant GitHub repository serves as a colorful portfolio showcasing my proj
 Feel free to explore my repository and immerse yourself in the captivating projects I'm working on. I wholeheartedly welcome discussions, suggestions, and collaborations that can further enrich this Data Science journey we embark on together. Let's join forces and make significant strides in transforming raw data into valuable and actionable insights! 💡🔍
 
 📢 Let's Connect! 📢
-You can reach me via [Email Address] or connect with me on [LinkedIn Profile]. I'm excited to engage with you and explore the fascinating world of Data Science together! 💬🔗
+You can reach me via er.apoorvgupta@gmail.com or connect with me on [LinkedIn Profile](https://www.linkedin.com/in/er-apoorv-gupta/). I'm excited to engage with you and explore the fascinating world of Data Science together! 💬🔗
