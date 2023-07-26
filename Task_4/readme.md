@@ -1,4 +1,4 @@
-# Task 4 - Instagram Reach Prediction
+# Task 4 - Video game sales
 
 <div align = "center">
   
